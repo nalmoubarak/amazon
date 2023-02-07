@@ -3,6 +3,10 @@ git init
 -----------
 Mystro-project
 -------------
+feature1
 
 -------
 feature1
+=======
+main
+
